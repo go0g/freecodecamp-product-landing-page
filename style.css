@@ -199,7 +199,6 @@ footer p {
 
 @media all and (max-width:800px){
     .pricing{
-
         flex-direction: column;
     }
     .pricing section{
